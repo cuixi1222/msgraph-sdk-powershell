@@ -20,7 +20,7 @@ namespace Microsoft.Graph.PowerShell.Authentication.Utilities
             { "Microsoft.IdentityModel.JsonWebTokens", new Version("5.6.0.61018") },
             { "System.IdentityModel.Tokens.Jwt", new Version("5.6.0.61018") },
             { "System.Security.Cryptography.ProtectedData", new Version("4.3.0.0") },
-            { "Newtonsoft.Json", new Version("10.0.3.21018") },
+            { "Newtonsoft.Json", new Version("13.0.1.25517") },
         };
 
         /// <summary>
